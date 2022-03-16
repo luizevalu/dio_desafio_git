@@ -3,3 +3,6 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generati
 
 - Git Book
 https://git-scm.com/book/en/v2
+
+- Linux
+https://guiafoca.org/
